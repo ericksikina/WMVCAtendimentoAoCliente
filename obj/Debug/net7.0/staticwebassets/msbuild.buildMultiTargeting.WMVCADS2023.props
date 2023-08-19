@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WMVCADS2023.props" />
+</Project>
