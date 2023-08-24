@@ -9,117 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WMVCADS2023
 build_property.RootNamespace = WMVCADS2023
-build_property.ProjectDir = C:\Users\Sikina\Desktop\Projeto\
+build_property.ProjectDir = C:\Users\erick\OneDrive\WMVAtendimentoAoCliente\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sikina\Desktop\Projeto
+build_property.MSBuildProjectDirectory = C:\Users\erick\OneDrive\WMVAtendimentoAoCliente
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Alunos/Create.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Alunos/Delete.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Alunos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Alunos/Details.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Alunos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Alunos/Edit.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Alunos/Index.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Alunos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Atendimentos/Create.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Atendimentos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Atendimentos/Delete.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Atendimentos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Atendimentos/Details.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Atendimentos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Atendimentos/Edit.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Atendimentos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Atendimentos/Index.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Atendimentos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Cursos/Create.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Cursos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Cursos/Delete.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Cursos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Cursos/Details.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Cursos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Cursos/Edit.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Cursos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Cursos/Index.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Cursos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Home/Index.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Home/Privacy.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Salas/Create.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Salas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Salas/Delete.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Salas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Salas/Details.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Salas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Salas/Edit.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Salas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Salas/Index.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Salas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Shared/Error.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/_ViewImports.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/_ViewStart.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sikina/Desktop/Projeto/Views/Shared/_Layout.cshtml]
+[C:/Users/erick/OneDrive/WMVAtendimentoAoCliente/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kq91oz8ebk

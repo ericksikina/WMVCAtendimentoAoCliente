@@ -11279,19 +11279,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sikina\\.nuget\\packages\\": {}
+    "C:\\Users\\erick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sikina\\Desktop\\Projeto\\WMVCADS2023.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\WMVAtendimentoAoCliente\\WMVCADS2023.csproj",
       "projectName": "WMVCADS2023",
-      "projectPath": "C:\\Users\\Sikina\\Desktop\\Projeto\\WMVCADS2023.csproj",
-      "packagesPath": "C:\\Users\\Sikina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sikina\\Desktop\\Projeto\\obj\\",
+      "projectPath": "C:\\Users\\erick\\OneDrive\\WMVAtendimentoAoCliente\\WMVCADS2023.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erick\\OneDrive\\WMVAtendimentoAoCliente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sikina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
